@@ -30,7 +30,7 @@
       },
       "currency": {
         "required": [
-          "RUB",
+          "RUR",
           "USD"
         ],
         "additionalProperties": false
